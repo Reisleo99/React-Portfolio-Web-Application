@@ -1,0 +1,35 @@
+.about-me-container {
+    background-color: var(--background-color);
+    padding: 50px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding-top: 100px;
+  }
+  
+  .about-me-content {
+    max-width: 800px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .about-me-content h1 {
+    color: var(--primary-color);
+    margin-bottom: 20px;
+  }
+  
+  .about-me-content p {
+    color: var(--text-color);
+    line-height: 1.6;
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+  }
+  
+  .about-me-content strong {
+    color: var(--secondary-color);
+  }
+  

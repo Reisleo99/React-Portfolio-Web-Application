@@ -1,0 +1,19 @@
+.footer {
+    background-color: var(--primary-color);
+    padding: 1rem;
+    text-align: center;
+    width: 100%;
+    position:absolute;
+    left: 0;
+  }
+  
+  .icon-link {
+    margin: 0 15px;
+    color: var(--text-color);
+    transition: color 0.3s ease;
+  }
+  
+  .icon-link:hover {
+    color: var(--accent-color);
+  }
+  
