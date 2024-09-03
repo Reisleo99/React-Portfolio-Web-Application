@@ -1,5 +1,6 @@
 import React from 'react';
 import './Resume.css';
+import resumeFile from '../assets/PDF-Portfolio.pdf';
 
 const ResumePage = () => {
   return (
@@ -81,7 +82,7 @@ const ResumePage = () => {
         </ul>
       </section>
 
-      <a href="../public/PDF-Portfolio.pdf" download="Leonardo_Reis_Resume.pdf" className="resume-download-button">Download My Resume</a>
+      <a href={resumeFile} download="Leonardo_Reis_Resume.pdf" className="resume-download-button">Download My Resume</a>
     </div>
   );
 };
