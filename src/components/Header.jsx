@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './header.css';
+import './Header.css';
 import profilePic from '../assets/perfil-profissional.jpg';
 
 const Header = () => {
