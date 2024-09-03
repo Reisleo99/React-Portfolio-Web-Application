@@ -45,4 +45,4 @@ After opening as integrated terminal: npm run dev.
 ## Contact
 
 * Github - [Reisleo99](https://github.com/Reisleo99)
-* Email - [](leonardo.ao.reis@gmail.com)
+* Email - [leonardo.ao.reis@gmail.com](leonardo.ao.reis@gmail.com)
