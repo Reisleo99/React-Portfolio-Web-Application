@@ -8,7 +8,6 @@ Welcome to my personal portfolio website! This project showcases my journey, ski
 - [Features](#features)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [Usage](#usage)
 - [Contact](#contact)
 
 ## About
@@ -42,3 +41,8 @@ To run this project locally, follow these steps:
    git clone https://github.com/yourusername/your-repository-name.git
    cd your-repository-name
 After opening as integrated terminal: npm run dev.
+
+## Contact
+
+* Github - [Reisleo99](https://github.com/Reisleo99)
+* Email - [](leonardo.ao.reis@gmail.com)
