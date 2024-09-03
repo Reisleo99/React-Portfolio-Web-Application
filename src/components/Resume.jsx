@@ -1,16 +1,16 @@
 import React from 'react';
 import './resume.css';
 
-const Resume = () => {
+const ResumePage = () => {
   return (
     <div className="resume-container">
       <h1>Leonardo Reis</h1>
       <p>Florida, USA</p>
       <p>Email: leonardo.ao.reis@gmail.com</p>
-    
+
       <section>
         <h2>Professional Summary</h2>
-        <p>Enthusiastic and dedicated professional with a diverse background in sales, hospitality, and software development. Experienced in customer service and team collaboration with a strong foundation in audio engineering. Currently pursuing a career transition into software development, with hands-on experience in web technologies and programming languages. Highly adaptable, with a passion for continuous learning and personal growth.</p>
+        <p>Enthusiastic and dedicated professional with a diverse background in sales, hospitality, and software development. Experienced in customer service and team collaboration with a foundation in audio engineering. Currently pursuing a career of software development, with hands-on experience in web technologies and programming languages. Highly adaptable, with a passion for continuous learning and personal growth.</p>
       </section>
 
       <section>
@@ -80,8 +80,10 @@ const Resume = () => {
           <li>Web Development Coursework - UCF Edx Courses, 2023 (in progress)</li>
         </ul>
       </section>
+
+      <a href="../public/PDF-Portfolio.pdf" download="Leonardo_Reis_Resume.pdf" className="resume-download-button">Download My Resume</a>
     </div>
   );
 };
 
-export default Resume;
+export default ResumePage;

@@ -7,6 +7,8 @@ import Contact from './components/Contact';
 import Resume from './components/Resume';
 import Footer from './components/Footer';
 import './App.css';
+import ResumePage from './components/Resume';
+<Route path="/resume" component={ResumePage} />
 
 const App = () => {
   return (
