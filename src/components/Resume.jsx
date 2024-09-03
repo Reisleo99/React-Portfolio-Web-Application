@@ -78,7 +78,7 @@ const ResumePage = () => {
         <h2>Certifications</h2>
         <ul>
           <li>Audio Engineering Certification - DGC Audio, 2017</li>
-          <li>Web Development Coursework - UCF Edx Courses, 2023 (in progress)</li>
+          <li>Web Development Coursework - UCF Edx Courses, June 2024 (in progress)</li>
         </ul>
       </section>
 
