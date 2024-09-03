@@ -27,5 +27,4 @@ export default Portfolio;
 
 //TODO Deixar imagens com links para os projetos no GitHub
 //TODO Deploy no netlify
-//TODO Ajustar Cores
 //TODO Link para baixar resume
