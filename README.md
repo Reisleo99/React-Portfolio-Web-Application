@@ -30,6 +30,7 @@ This portfolio was created to highlight my professional journey, skills, and pro
 - **Vite**
 - **Bootstrap**
 - **HTML**
+- **CSS**
 
 ## Setup
 
